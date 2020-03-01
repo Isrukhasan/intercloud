@@ -1,0 +1,97 @@
+                                    /* Telephony Page Css starts here */
+                                    
+                                    .mycon {
+                                        padding-top: 30px;
+                                        padding-bottom: 30px;
+                                    }
+                                    
+                                    .mycon {
+                                        text-align: center;
+                                    }
+                                    
+                                    .firstrow {
+                                        padding-top: 40px;
+                                    }
+                                    
+                                    .secondrow {
+                                        padding-bottom: 40px;
+                                    }
+                                    
+                                    .columns img {
+                                        border-radius: 50%;
+                                        padding-bottom: 5px;
+                                    }
+                                    
+                                    .columns img:hover {
+                                        moz-box-shadow: 1px 1px 3px 3px #008B92;
+                                        -webkit-box-shadow: 1px 1px 3px 3px #008B92;
+                                        box-shadow: 1px 1px 3px 3px #008B92;
+                                        transition: box-shadow 00ms;
+                                    }
+                                    
+                                    .columns p {
+                                        text-align: center;
+                                        vertical-align: bottom;
+                                        line-height: 1.6;
+                                        font-family: myriad Arial, Helvetica, sans-serif;
+                                        text-transform: lowercase;
+                                        color: #008B92;
+                                        margin-top: 10px;
+                                    }
+                                    
+                                    .appbasedpbx {
+                                        text-align: center;
+                                        padding-top: 20px;
+                                        align-items: center;
+                                    }
+                                    
+                                    @media (min-width: 370px) and (max-width: 450px) {
+                                        .hpxcol_1 img {
+                                            width: 299px;
+                                            overflow: hidden;
+                                        }
+                                    }
+                                    
+                                    @media (min-width: 481px) and (max-width: 767px) {
+                                        .hpxcol_1 img {
+                                            width: 299px;
+                                            overflow: hidden;
+                                        }
+                                    }
+                                    /* @media only screen and (min-width: 960px) {
+                .hpxcol_1 img{
+                    max-width: 100%;
+                    overflow: hidden;
+                } */
+                                    
+                                    @media (min-width: 768px) and (max-width: 1324px) {
+                                        .hpxcol_1 img {
+                                            width: 299px;
+                                        }
+                                    }
+                                    
+                                    .telephony,
+                                    .telephony_row {
+                                        text-align: center;
+                                        align-items: center;
+                                        padding: 20px;
+                                    }
+                                    
+                                    .heading-two {
+                                        font-family: Arial, Helvetica, sans-serif;
+                                        font-size: 3rem;
+                                        font-weight: bolder;
+                                        color: #bcbcbc;
+                                    }
+                                    
+                                    .boldcolor {
+                                        color: #008B92;
+                                    }
+                                    
+                                    @media (min-width: 481px) and (max-width: 767px) {
+                                        .tcolumns img {
+                                            max-width: 100%;
+                                            overflow: hidden;
+                                        }
+                                    }
+                                    /*         Telephony service page css ends here *
